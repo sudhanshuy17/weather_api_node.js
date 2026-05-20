@@ -5,6 +5,9 @@ async function getData(){
     
 }
 
+function newFunc(){
+    console.log("new feature added")
+}
 
 // console.log(getData)
 getData()

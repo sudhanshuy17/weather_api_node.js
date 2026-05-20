@@ -9,5 +9,9 @@ function newFunc(){
     console.log("new feature added")
 }
 
+function sum(a, b){
+    console.log(a+b)
+}
+
 // console.log(getData)
 getData()

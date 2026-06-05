@@ -6,5 +6,12 @@ async function getData(){
 }
 
 
+function userName(){
+    console.log("What is your name?")
+}
+
+function newFeatureB(){
+    console.log("feature b added")
+}
 // console.log(getData)
 getData()
